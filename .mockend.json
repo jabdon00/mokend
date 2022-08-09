@@ -1,5 +1,7 @@
 {
   "User": {
-    "title": { "string": {} }
+    "username": "jabdon"
+    "password": "123456"
+    "token":{ "string": {} }
   }
 }
