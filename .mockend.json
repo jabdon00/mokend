@@ -1,7 +1,7 @@
 {
-  User:{
-    username: "jabdon",
-    password: "123",
-    token: "2434sdf3!@#!#$"
+  "User":{
+    "username": "jabdon",
+    "password": "123",
+    "token": "2434sdf3!@#!#$"
   }
 }
